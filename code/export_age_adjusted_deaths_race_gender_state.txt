@@ -1,0 +1,276 @@
+"Notes"	"Race"	"Race Code"	"Gender"	"Gender Code"	"State"	"State Code"	Deaths	Population	Crude Rate	Age Adjusted Rate	Age Adjusted Rate Lower 95% Confidence Interval	Age Adjusted Rate Upper 95% Confidence Interval
+	"Black or African American"	"2054-5"	"Female"	"F"	"Alabama"	"01"	124821	14725096	847.7	880.1	875.2	885.1
+	"Black or African American"	"2054-5"	"Female"	"F"	"Alaska"	"02"	928	289006	321.1	624.3	580.5	668.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"Arizona"	"04"	14626	2767890	528.4	739.0	726.6	751.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"Arkansas"	"05"	43001	5257734	817.9	903.3	894.7	911.9
+	"Black or African American"	"2054-5"	"Female"	"F"	"California"	"06"	201944	26509638	761.8	799.2	795.7	802.8
+	"Black or African American"	"2054-5"	"Female"	"F"	"Colorado"	"08"	12024	2259917	532.1	724.9	711.6	738.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"Connecticut"	"09"	23544	4090065	575.6	667.0	658.4	675.6
+	"Black or African American"	"2054-5"	"Female"	"F"	"Delaware"	"10"	14431	2216194	651.2	754.6	742.1	767.1
+	"Black or African American"	"2054-5"	"Female"	"F"	"District of Columbia"	"11"	44052	3885384	1133.8	887.1	878.6	895.6
+	"Black or African American"	"2054-5"	"Female"	"F"	"Florida"	"12"	208829	33531782	622.8	734.0	730.8	737.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"Georgia"	"13"	218253	34174649	638.6	806.5	803.0	810.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"Hawaii"	"15"	603	295650	204.0	463.0	421.5	504.6
+	"Black or African American"	"2054-5"	"Female"	"F"	"Idaho"	"16"	241	120794	199.5	519.1	443.3	594.8
+	"Black or African American"	"2054-5"	"Female"	"F"	"Illinois"	"17"	174000	22003695	790.8	839.6	835.6	843.6
+	"Black or African American"	"2054-5"	"Female"	"F"	"Indiana"	"18"	49971	6997436	714.1	856.9	849.3	864.5
+	"Black or African American"	"2054-5"	"Female"	"F"	"Iowa"	"19"	5014	1065475	470.6	852.3	827.6	877.1
+	"Black or African American"	"2054-5"	"Female"	"F"	"Kansas"	"20"	13927	1939883	717.9	884.5	869.6	899.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"Kentucky"	"21"	30341	3923904	773.2	866.4	856.5	876.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"Louisiana"	"22"	137061	17152796	799.1	905.2	900.4	910.1
+	"Black or African American"	"2054-5"	"Female"	"F"	"Maine"	"23"	354	174104	203.3	418.2	370.4	465.9
+	"Black or African American"	"2054-5"	"Female"	"F"	"Maryland"	"24"	135575	20064815	675.7	750.6	746.5	754.7
+	"Black or African American"	"2054-5"	"Female"	"F"	"Massachusetts"	"25"	26078	5073344	514.0	620.5	612.9	628.1
+	"Black or African American"	"2054-5"	"Female"	"F"	"Michigan"	"26"	137172	16802440	816.4	872.0	867.3	876.6
+	"Black or African American"	"2054-5"	"Female"	"F"	"Minnesota"	"27"	10201	3207891	318.0	671.8	657.3	686.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"Mississippi"	"28"	103051	12741735	808.8	908.2	902.6	913.8
+	"Black or African American"	"2054-5"	"Female"	"F"	"Missouri"	"29"	63472	8209779	773.1	862.9	856.1	869.7
+	"Black or African American"	"2054-5"	"Female"	"F"	"Montana"	"30"	158	60981	259.1	576.5	479.3	673.8
+	"Black or African American"	"2054-5"	"Female"	"F"	"Nebraska"	"31"	5699	977688	582.9	866.9	843.8	890.1
+	"Black or African American"	"2054-5"	"Female"	"F"	"Nevada"	"32"	15590	2490186	626.1	797.3	784.4	810.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"New Hampshire"	"33"	401	167855	238.9	441.1	394.4	487.7
+	"Black or African American"	"2054-5"	"Female"	"F"	"New Jersey"	"34"	104915	13678266	767.0	802.1	797.2	807.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"New Mexico"	"35"	2654	410276	646.9	721.3	693.6	749.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"New York"	"36"	243865	34783210	701.1	681.7	679.0	684.5
+	"Black or African American"	"2054-5"	"Female"	"F"	"North Carolina"	"37"	185320	23963649	773.3	803.6	799.9	807.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"North Dakota"	"38"	165	122424	134.8	393.7	310.5	476.9
+	"Black or African American"	"2054-5"	"Female"	"F"	"Ohio"	"39"	136042	16862946	806.8	851.7	847.2	856.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"Oklahoma"	"40"	24993	3371721	741.3	926.7	915.1	938.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"Oregon"	"41"	4208	859035	489.9	722.7	700.3	745.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"Pennsylvania"	"42"	133509	15803735	844.8	849.4	844.8	854.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"Rhode Island"	"44"	3137	695758	450.9	599.6	578.3	620.9
+	"Black or African American"	"2054-5"	"Female"	"F"	"South Carolina"	"45"	121501	15166082	801.1	829.5	824.8	834.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"South Dakota"	"46"	202	126699	159.4	311.7	261.9	361.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"Tennessee"	"47"	95140	12443743	764.6	891.5	885.8	897.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"Texas"	"48"	227969	33841453	673.6	836.8	833.3	840.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"Utah"	"49"	985	317126	310.6	721.0	672.4	769.7
+	"Black or African American"	"2054-5"	"Female"	"F"	"Vermont"	"50"	192	73231	262.2	528.4	445.7	611.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"Virginia"	"51"	134209	18033613	744.2	782.1	777.9	786.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"Washington"	"53"	12985	2954418	439.5	702.7	690.1	715.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"West Virginia"	"54"	7142	705689	1012.1	897.8	876.6	918.9
+	"Black or African American"	"2054-5"	"Female"	"F"	"Wisconsin"	"55"	23758	4123165	576.2	883.3	871.5	895.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"Wyoming"	"56"	251	63265	396.7	500.4	437.3	563.6
+"Total"	"Black or African American"	"2054-5"	"Female"	"F"			3278504	451577310	726.0	807.1	806.2	808.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"Alabama"	"01"	130185	12798926	1017.2	1373.3	1365.3	1381.2
+	"Black or African American"	"2054-5"	"Male"	"M"	"Alaska"	"02"	1395	349252	399.4	862.9	804.3	921.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"Arizona"	"04"	18099	3019321	599.4	989.8	973.4	1006.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"Arkansas"	"05"	45383	4748378	955.8	1360.7	1347.4	1373.9
+	"Black or African American"	"2054-5"	"Male"	"M"	"California"	"06"	220844	25882477	853.3	1136.9	1131.9	1141.9
+	"Black or African American"	"2054-5"	"Male"	"M"	"Colorado"	"08"	14913	2529335	589.6	1001.0	982.4	1019.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"Connecticut"	"09"	24321	3728472	652.3	985.2	971.7	998.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"Delaware"	"10"	15348	1984385	773.4	1086.4	1067.9	1105.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"District of Columbia"	"11"	44632	3217210	1387.3	1450.1	1436.4	1463.8
+	"Black or African American"	"2054-5"	"Male"	"M"	"Florida"	"12"	224151	31010052	722.8	1046.7	1042.1	1051.4
+	"Black or African American"	"2054-5"	"Male"	"M"	"Georgia"	"13"	222737	30150519	738.8	1201.3	1195.7	1207.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"Hawaii"	"15"	1300	436256	298.0	645.4	603.1	687.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"Idaho"	"16"	424	158726	267.1	718.5	632.5	804.4
+	"Black or African American"	"2054-5"	"Male"	"M"	"Illinois"	"17"	184620	19450616	949.2	1279.2	1273.0	1285.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"Indiana"	"18"	55293	6492738	851.6	1293.7	1282.1	1305.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"Iowa"	"19"	6124	1184228	517.1	1151.6	1117.5	1185.8
+	"Black or African American"	"2054-5"	"Male"	"M"	"Kansas"	"20"	15248	2023698	753.5	1224.6	1203.4	1245.8
+	"Black or African American"	"2054-5"	"Male"	"M"	"Kentucky"	"21"	31725	3824325	829.6	1266.0	1250.9	1281.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"Louisiana"	"22"	150298	15455206	972.5	1368.3	1360.9	1375.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"Maine"	"23"	687	215940	318.1	696.1	631.7	760.6
+	"Black or African American"	"2054-5"	"Male"	"M"	"Maryland"	"24"	144222	17507584	823.8	1147.2	1140.7	1153.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"Massachusetts"	"25"	27975	4760441	587.7	921.5	909.8	933.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"Michigan"	"26"	145555	15211236	956.9	1290.9	1283.9	1297.8
+	"Black or African American"	"2054-5"	"Male"	"M"	"Minnesota"	"27"	13497	3354558	402.3	904.1	884.6	923.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"Mississippi"	"28"	110513	11296231	978.3	1406.9	1398.1	1415.8
+	"Black or African American"	"2054-5"	"Male"	"M"	"Missouri"	"29"	68182	7410484	920.1	1326.8	1316.1	1337.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"Montana"	"30"	325	86818	374.3	924.2	801.9	1046.4
+	"Black or African American"	"2054-5"	"Male"	"M"	"Nebraska"	"31"	6475	1002667	645.8	1183.9	1151.2	1216.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"Nevada"	"32"	19098	2506952	761.8	1080.9	1063.9	1097.8
+	"Black or African American"	"2054-5"	"Male"	"M"	"New Hampshire"	"33"	669	207888	321.8	631.7	575.1	688.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"New Jersey"	"34"	105005	12143555	864.7	1185.6	1177.9	1193.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"New Mexico"	"35"	3605	504822	714.1	995.5	960.5	1030.6
+	"Black or African American"	"2054-5"	"Male"	"M"	"New York"	"36"	226513	30015581	754.7	999.5	995.2	1003.9
+	"Black or African American"	"2054-5"	"Male"	"M"	"North Carolina"	"37"	188022	21110771	890.6	1229.8	1223.8	1235.8
+	"Black or African American"	"2054-5"	"Male"	"M"	"North Dakota"	"38"	346	170228	203.3	507.7	421.5	594.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"Ohio"	"39"	141974	15409642	921.3	1260.7	1253.8	1267.6
+	"Black or African American"	"2054-5"	"Male"	"M"	"Oklahoma"	"40"	27430	3338309	821.7	1314.8	1297.8	1331.9
+	"Black or African American"	"2054-5"	"Male"	"M"	"Oregon"	"41"	5684	981652	579.0	1032.2	1001.6	1062.8
+	"Black or African American"	"2054-5"	"Male"	"M"	"Pennsylvania"	"42"	135839	14444115	940.4	1289.8	1282.5	1297.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"Rhode Island"	"44"	3737	690489	541.2	904.3	872.3	936.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"South Carolina"	"45"	129690	13365678	970.3	1289.8	1282.3	1297.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"South Dakota"	"46"	444	179211	247.8	575.2	502.2	648.1
+	"Black or African American"	"2054-5"	"Male"	"M"	"Tennessee"	"47"	100276	11113720	902.3	1357.3	1348.1	1366.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"Texas"	"48"	239995	31623657	758.9	1200.5	1195.1	1205.8
+	"Black or African American"	"2054-5"	"Male"	"M"	"Utah"	"49"	1571	412341	381.0	945.4	886.2	1004.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"Vermont"	"50"	243	90880	267.4	533.3	454.7	612.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"Virginia"	"51"	138247	16531970	836.2	1161.1	1154.5	1167.6
+	"Black or African American"	"2054-5"	"Male"	"M"	"Washington"	"53"	17635	3385721	520.9	963.4	946.8	980.1
+	"Black or African American"	"2054-5"	"Male"	"M"	"West Virginia"	"54"	7582	791524	957.9	1312.8	1281.2	1344.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"Wisconsin"	"55"	27249	3958489	688.4	1259.9	1242.4	1277.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"Wyoming"	"56"	345	87226	395.5	653.4	578.9	727.8
+"Total"	"Black or African American"	"2054-5"	"Male"	"M"			3445670	412354500	835.6	1197.2	1195.8	1198.5
+"Total"	"Black or African American"	"2054-5"					6724174	863931810	778.3	970.9	970.1	971.6
+	"White"	"2106-3"	"Female"	"F"	"Alabama"	"01"	409920	36127437	1134.7	792.5	790.0	795.0
+	"White"	"2106-3"	"Female"	"F"	"Alaska"	"02"	23430	4834325	484.7	597.7	589.8	605.6
+	"White"	"2106-3"	"Female"	"F"	"Arizona"	"04"	410494	41336213	993.1	605.7	603.8	607.7
+	"White"	"2106-3"	"Female"	"F"	"Arkansas"	"05"	276195	24443248	1129.9	766.7	763.7	769.6
+	"White"	"2106-3"	"Female"	"F"	"California"	"06"	1808514	173182026	1044.3	629.1	628.1	630.0
+	"White"	"2106-3"	"Female"	"F"	"Colorado"	"08"	300283	39498661	760.2	606.4	604.2	608.6
+	"White"	"2106-3"	"Female"	"F"	"Connecticut"	"09"	305936	28977322	1055.8	587.6	585.4	589.8
+	"White"	"2106-3"	"Female"	"F"	"Delaware"	"10"	69811	6745775	1034.9	664.5	659.5	669.6
+	"White"	"2106-3"	"Female"	"F"	"District of Columbia"	"11"	10680	2349692	454.5	442.3	433.6	451.0
+	"White"	"2106-3"	"Female"	"F"	"Florida"	"12"	1474856	125179062	1178.2	612.7	611.7	613.8
+	"White"	"2106-3"	"Female"	"F"	"Georgia"	"13"	567306	60873582	931.9	726.3	724.4	728.3
+	"White"	"2106-3"	"Female"	"F"	"Hawaii"	"15"	24752	3602270	687.1	535.5	528.7	542.3
+	"White"	"2106-3"	"Female"	"F"	"Idaho"	"16"	120061	14521500	826.8	656.0	652.2	659.8
+	"White"	"2106-3"	"Female"	"F"	"Illinois"	"17"	951760	92295380	1031.2	652.9	651.5	654.3
+	"White"	"2106-3"	"Female"	"F"	"Indiana"	"18"	598405	59567947	1004.6	726.5	724.7	728.4
+	"White"	"2106-3"	"Female"	"F"	"Iowa"	"19"	317477	30431554	1043.2	630.2	627.9	632.5
+	"White"	"2106-3"	"Female"	"F"	"Kansas"	"20"	260958	25184116	1036.2	671.7	669.0	674.3
+	"White"	"2106-3"	"Female"	"F"	"Kentucky"	"21"	438713	42146677	1040.9	797.3	794.9	799.7
+	"White"	"2106-3"	"Female"	"F"	"Louisiana"	"22"	319346	31110524	1026.5	757.1	754.4	759.7
+	"White"	"2106-3"	"Female"	"F"	"Maine"	"23"	145182	14198206	1022.5	662.7	659.2	666.2
+	"White"	"2106-3"	"Female"	"F"	"Maryland"	"24"	356333	36329986	980.8	648.0	645.8	650.2
+	"White"	"2106-3"	"Female"	"F"	"Massachusetts"	"25"	591312	58211953	1015.8	616.1	614.5	617.8
+	"White"	"2106-3"	"Female"	"F"	"Michigan"	"26"	849165	86243381	984.6	674.5	673.0	675.9
+	"White"	"2106-3"	"Female"	"F"	"Minnesota"	"27"	426817	49601580	860.5	573.3	571.5	575.1
+	"White"	"2106-3"	"Female"	"F"	"Mississippi"	"28"	219917	19357953	1136.1	786.4	783.1	789.8
+	"White"	"2106-3"	"Female"	"F"	"Missouri"	"29"	566649	54528990	1039.2	710.9	709.0	712.8
+	"White"	"2106-3"	"Female"	"F"	"Montana"	"30"	90127	9595052	939.3	640.7	636.4	645.0
+	"White"	"2106-3"	"Female"	"F"	"Nebraska"	"31"	167183	16925735	987.7	632.1	629.0	635.3
+	"White"	"2106-3"	"Female"	"F"	"Nevada"	"32"	162305	15942520	1018.1	753.6	749.9	757.4
+	"White"	"2106-3"	"Female"	"F"	"New Hampshire"	"33"	118355	13622180	868.8	627.3	623.6	630.9
+	"White"	"2106-3"	"Female"	"F"	"New Jersey"	"34"	665886	59923711	1111.2	633.4	631.8	635.0
+	"White"	"2106-3"	"Female"	"F"	"New Mexico"	"35"	100122	9230345	1084.7	644.7	640.6	648.9
+	"White"	"2106-3"	"Female"	"F"	"New York"	"36"	1330054	129511911	1027.0	605.3	604.2	606.3
+	"White"	"2106-3"	"Female"	"F"	"North Carolina"	"37"	690776	70061179	986.0	687.6	685.9	689.3
+	"White"	"2106-3"	"Female"	"F"	"North Dakota"	"38"	62275	6690169	930.8	568.8	564.1	573.6
+	"White"	"2106-3"	"Female"	"F"	"Ohio"	"39"	1123766	106411242	1056.1	720.5	719.1	721.8
+	"White"	"2106-3"	"Female"	"F"	"Oklahoma"	"40"	350845	29955660	1171.2	798.1	795.4	800.8
+	"White"	"2106-3"	"Female"	"F"	"Oregon"	"41"	340720	34379270	991.1	655.5	653.2	657.8
+	"White"	"2106-3"	"Female"	"F"	"Pennsylvania"	"42"	1314446	114545999	1147.5	667.2	666.0	668.4
+	"White"	"2106-3"	"Female"	"F"	"Rhode Island"	"44"	107983	9424188	1145.8	639.6	635.5	643.6
+	"White"	"2106-3"	"Female"	"F"	"South Carolina"	"45"	333454	33525202	994.6	706.9	704.4	709.3
+	"White"	"2106-3"	"Female"	"F"	"South Dakota"	"46"	73549	7686268	956.9	582.7	578.3	587.2
+	"White"	"2106-3"	"Female"	"F"	"Tennessee"	"47"	574011	54313202	1056.9	768.9	766.8	770.9
+	"White"	"2106-3"	"Female"	"F"	"Texas"	"48"	1264102	129341389	977.3	700.1	698.9	701.4
+	"White"	"2106-3"	"Female"	"F"	"Utah"	"49"	152001	24515122	620.0	651.0	647.7	654.3
+	"White"	"2106-3"	"Female"	"F"	"Vermont"	"50"	60157	6626752	907.8	629.5	624.3	634.6
+	"White"	"2106-3"	"Female"	"F"	"Virginia"	"51"	524351	58480926	896.6	655.2	653.3	657.0
+	"White"	"2106-3"	"Female"	"F"	"Washington"	"53"	490651	55471800	884.5	632.1	630.3	633.9
+	"White"	"2106-3"	"Female"	"F"	"West Virginia"	"54"	231741	19280125	1202.0	821.1	817.6	824.5
+	"White"	"2106-3"	"Female"	"F"	"Wisconsin"	"55"	509256	52907963	962.5	621.4	619.6	623.2
+	"White"	"2106-3"	"Female"	"F"	"Wyoming"	"56"	43651	5159651	846.0	672.2	665.8	678.6
+"Total"	"White"	"2106-3"	"Female"	"F"			22726039	2234406921	1017.1	665.2	665.0	665.5
+	"White"	"2106-3"	"Male"	"M"	"Alabama"	"01"	411671	34518100	1192.6	1116.6	1113.1	1120.1
+	"White"	"2106-3"	"Male"	"M"	"Alaska"	"02"	32128	5387455	596.3	815.7	805.6	825.7
+	"White"	"2106-3"	"Male"	"M"	"Arizona"	"04"	447093	40310919	1109.1	837.3	834.8	839.8
+	"White"	"2106-3"	"Male"	"M"	"Arkansas"	"05"	284095	23518403	1208.0	1082.4	1078.3	1086.4
+	"White"	"2106-3"	"Male"	"M"	"California"	"06"	1779151	171298970	1038.6	860.1	858.9	861.4
+	"White"	"2106-3"	"Male"	"M"	"Colorado"	"08"	300287	39461973	761.0	817.5	814.5	820.5
+	"White"	"2106-3"	"Male"	"M"	"Connecticut"	"09"	273203	27360880	998.5	825.2	822.1	828.4
+	"White"	"2106-3"	"Male"	"M"	"Delaware"	"10"	69656	6339604	1098.7	922.3	915.3	929.3
+	"White"	"2106-3"	"Male"	"M"	"District of Columbia"	"11"	11170	2318654	481.7	604.6	593.2	616.0
+	"White"	"2106-3"	"Male"	"M"	"Florida"	"12"	1591044	120023749	1325.6	874.4	873.0	875.8
+	"White"	"2106-3"	"Male"	"M"	"Georgia"	"13"	565065	58963007	958.3	1001.6	998.9	1004.3
+	"White"	"2106-3"	"Male"	"M"	"Hawaii"	"15"	32532	4165684	781.0	762.7	754.2	771.3
+	"White"	"2106-3"	"Male"	"M"	"Idaho"	"16"	126138	14446866	873.1	879.3	874.4	884.2
+	"White"	"2106-3"	"Male"	"M"	"Illinois"	"17"	877339	88538309	990.9	916.1	914.2	918.0
+	"White"	"2106-3"	"Male"	"M"	"Indiana"	"18"	579305	57444524	1008.5	1017.7	1015.0	1020.3
+	"White"	"2106-3"	"Male"	"M"	"Iowa"	"19"	297085	29431109	1009.4	900.5	897.2	903.7
+	"White"	"2106-3"	"Male"	"M"	"Kansas"	"20"	246219	24413471	1008.5	931.1	927.4	934.8
+	"White"	"2106-3"	"Male"	"M"	"Kentucky"	"21"	444730	40378467	1101.4	1127.2	1123.8	1130.6
+	"White"	"2106-3"	"Male"	"M"	"Louisiana"	"22"	323719	30050461	1077.3	1062.6	1058.9	1066.3
+	"White"	"2106-3"	"Male"	"M"	"Maine"	"23"	141854	13551731	1046.8	927.1	922.2	932.0
+	"White"	"2106-3"	"Male"	"M"	"Maryland"	"24"	337558	34732717	971.9	891.8	888.8	894.9
+	"White"	"2106-3"	"Male"	"M"	"Massachusetts"	"25"	525947	54338998	967.9	869.8	867.5	872.2
+	"White"	"2106-3"	"Male"	"M"	"Michigan"	"26"	822083	83856433	980.3	932.0	929.9	934.0
+	"White"	"2106-3"	"Male"	"M"	"Minnesota"	"27"	406301	48518308	837.4	803.5	801.0	806.0
+	"White"	"2106-3"	"Male"	"M"	"Mississippi"	"28"	223268	18643264	1197.6	1135.7	1130.9	1140.5
+	"White"	"2106-3"	"Male"	"M"	"Missouri"	"29"	552305	52458360	1052.8	995.5	992.8	998.2
+	"White"	"2106-3"	"Male"	"M"	"Montana"	"30"	95272	9659471	986.3	876.8	871.1	882.4
+	"White"	"2106-3"	"Male"	"M"	"Nebraska"	"31"	157767	16447302	959.2	885.8	881.4	890.2
+	"White"	"2106-3"	"Male"	"M"	"Nevada"	"32"	195741	16470746	1188.4	1023.9	1019.2	1028.6
+	"White"	"2106-3"	"Male"	"M"	"New Hampshire"	"33"	116553	13230283	881.0	870.2	865.1	875.3
+	"White"	"2106-3"	"Male"	"M"	"New Jersey"	"34"	597797	56631705	1055.6	889.1	886.9	891.4
+	"White"	"2106-3"	"Male"	"M"	"New Mexico"	"35"	104828	8969006	1168.8	883.1	877.6	888.6
+	"White"	"2106-3"	"Male"	"M"	"New York"	"36"	1203190	122949391	978.6	840.3	838.8	841.8
+	"White"	"2106-3"	"Male"	"M"	"North Carolina"	"37"	676805	66824469	1012.8	959.0	956.6	961.3
+	"White"	"2106-3"	"Male"	"M"	"North Dakota"	"38"	63126	6829453	924.3	843.9	837.3	850.5
+	"White"	"2106-3"	"Male"	"M"	"Ohio"	"39"	1065397	101834099	1046.2	998.3	996.4	1000.2
+	"White"	"2106-3"	"Male"	"M"	"Oklahoma"	"40"	348823	28855860	1208.8	1094.5	1090.8	1098.2
+	"White"	"2106-3"	"Male"	"M"	"Oregon"	"41"	339275	33224123	1021.2	891.9	888.8	894.9
+	"White"	"2106-3"	"Male"	"M"	"Pennsylvania"	"42"	1218107	108665203	1121.0	947.8	946.1	949.5
+	"White"	"2106-3"	"Male"	"M"	"Rhode Island"	"44"	94848	8711181	1088.8	919.9	914.0	925.9
+	"White"	"2106-3"	"Male"	"M"	"South Carolina"	"45"	344824	32093525	1074.4	995.3	991.9	998.7
+	"White"	"2106-3"	"Male"	"M"	"South Dakota"	"46"	74158	7651497	969.2	858.4	852.2	864.7
+	"White"	"2106-3"	"Male"	"M"	"Tennessee"	"47"	577654	51773870	1115.7	1082.1	1079.2	1084.9
+	"White"	"2106-3"	"Male"	"M"	"Texas"	"48"	1275782	126275923	1010.3	963.0	961.3	964.7
+	"White"	"2106-3"	"Male"	"M"	"Utah"	"49"	156438	24510040	638.3	832.5	828.3	836.7
+	"White"	"2106-3"	"Male"	"M"	"Vermont"	"50"	58173	6421410	905.9	867.5	860.3	874.7
+	"White"	"2106-3"	"Male"	"M"	"Virginia"	"51"	509153	56837041	895.8	892.4	889.9	894.9
+	"White"	"2106-3"	"Male"	"M"	"Washington"	"53"	491661	54781749	897.5	857.8	855.3	860.2
+	"White"	"2106-3"	"Male"	"M"	"West Virginia"	"54"	234162	18518985	1264.4	1144.5	1139.7	1149.2
+	"White"	"2106-3"	"Male"	"M"	"Wisconsin"	"55"	492498	51840396	950.0	879.4	876.9	881.9
+	"White"	"2106-3"	"Male"	"M"	"Wyoming"	"56"	47367	5297193	894.2	908.5	900.1	916.9
+"Total"	"White"	"2106-3"	"Male"	"M"			22240345	2159774337	1029.8	924.2	923.8	924.6
+"Total"	"White"	"2106-3"					44966384	4394181258	1023.3	781.8	781.6	782.1
+"Total"							51690558	5258113068	983.1	808.2	808.0	808.4
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: age_adjusted_deaths_race_gender_state"
+"Gender: Female; Male"
+"Hispanic Origin: Not Hispanic or Latino"
+"Race: Black or African American; White"
+"Group By: Race; Gender; State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 26, 2022 5:21:22 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 26, 2022 5:21:22 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2000 Standard Population."
+"3. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Age-Adjusted Rates."
+"4. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"5. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"6. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"7. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Confidence-Intervals."
+"8. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"9. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
