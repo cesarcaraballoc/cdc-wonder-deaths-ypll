@@ -14,7 +14,7 @@ The analysis has 2 main parts.
 ### Datasets: 
 - a)  export_age_adjusted_deaths_race_gender_year.txt
 - b)  export_deaths_crude_race_gender_age_year.txt
-
+- c) file_life_expectancy_1999_to_2020.dta
 
 ## Part 2: By age
 
@@ -24,3 +24,4 @@ The analysis has 2 main parts.
 ### Datasets: 
 - a)  export_deaths_crude_race_gender_age.txt
 - b)  export_deaths_crude_race_gender_age_year.txt
+- c) file_life_expectancy_1999_to_2020.dta
