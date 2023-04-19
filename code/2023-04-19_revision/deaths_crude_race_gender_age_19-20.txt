@@ -1,0 +1,471 @@
+"Notes"	"Race"	"Race Code"	"Gender"	"Gender Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"Black or African American"	"2054-5"	"Female"	"F"	"< 1 year"	"0"	5588	573271	974.8
+	"Black or African American"	"2054-5"	"Female"	"F"	"1 year"	"1"	344	580905	59.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"2 years"	"2"	214	594460	36.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"3 years"	"3"	167	601048	27.8
+	"Black or African American"	"2054-5"	"Female"	"F"	"4 years"	"4"	129	606747	21.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"5 years"	"5"	116	609665	19.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"6 years"	"6"	100	607785	16.5
+	"Black or African American"	"2054-5"	"Female"	"F"	"7 years"	"7"	109	605952	18.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"8 years"	"8"	105	607482	17.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"9 years"	"9"	102	610470	16.7
+	"Black or African American"	"2054-5"	"Female"	"F"	"10 years"	"10"	87	613100	14.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"11 years"	"11"	94	625462	15.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"12 years"	"12"	111	633498	17.5
+	"Black or African American"	"2054-5"	"Female"	"F"	"13 years"	"13"	123	625040	19.7
+	"Black or African American"	"2054-5"	"Female"	"F"	"14 years"	"14"	125	613053	20.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"15 years"	"15"	159	606097	26.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"16 years"	"16"	183	602934	30.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"17 years"	"17"	243	606590	40.1
+	"Black or African American"	"2054-5"	"Female"	"F"	"18 years"	"18"	380	622696	61.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"19 years"	"19"	376	642382	58.5
+	"Black or African American"	"2054-5"	"Female"	"F"	"20 years"	"20"	451	644294	70.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"21 years"	"21"	503	639619	78.6
+	"Black or African American"	"2054-5"	"Female"	"F"	"22 years"	"22"	530	641840	82.6
+	"Black or African American"	"2054-5"	"Female"	"F"	"23 years"	"23"	625	642608	97.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"24 years"	"24"	567	657445	86.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"25 years"	"25"	675	687059	98.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"26 years"	"26"	706	709793	99.5
+	"Black or African American"	"2054-5"	"Female"	"F"	"27 years"	"27"	757	726261	104.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"28 years"	"28"	824	741367	111.1
+	"Black or African American"	"2054-5"	"Female"	"F"	"29 years"	"29"	864	743226	116.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"30 years"	"30"	948	717019	132.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"31 years"	"31"	930	674071	138.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"32 years"	"32"	966	640647	150.8
+	"Black or African American"	"2054-5"	"Female"	"F"	"33 years"	"33"	1062	623626	170.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"34 years"	"34"	1049	617206	170.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"35 years"	"35"	1123	604035	185.9
+	"Black or African American"	"2054-5"	"Female"	"F"	"36 years"	"36"	1132	595716	190.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"37 years"	"37"	1242	599863	207.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"38 years"	"38"	1363	598248	227.8
+	"Black or African American"	"2054-5"	"Female"	"F"	"39 years"	"39"	1447	606374	238.6
+	"Black or African American"	"2054-5"	"Female"	"F"	"40 years"	"40"	1489	597088	249.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"41 years"	"41"	1620	567119	285.7
+	"Black or African American"	"2054-5"	"Female"	"F"	"42 years"	"42"	1615	553833	291.6
+	"Black or African American"	"2054-5"	"Female"	"F"	"43 years"	"43"	1735	539332	321.7
+	"Black or African American"	"2054-5"	"Female"	"F"	"44 years"	"44"	1784	535105	333.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"45 years"	"45"	1901	534087	355.9
+	"Black or African American"	"2054-5"	"Female"	"F"	"46 years"	"46"	2068	533815	387.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"47 years"	"47"	2198	550784	399.1
+	"Black or African American"	"2054-5"	"Female"	"F"	"48 years"	"48"	2439	572236	426.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"49 years"	"49"	2758	582013	473.9
+	"Black or African American"	"2054-5"	"Female"	"F"	"50 years"	"50"	2801	557684	502.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"51 years"	"51"	2928	537367	544.9
+	"Black or African American"	"2054-5"	"Female"	"F"	"52 years"	"52"	3311	537983	615.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"53 years"	"53"	3565	546326	652.5
+	"Black or African American"	"2054-5"	"Female"	"F"	"54 years"	"54"	3955	568074	696.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"55 years"	"55"	4379	579038	756.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"56 years"	"56"	4698	572930	820.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"57 years"	"57"	5235	565846	925.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"58 years"	"58"	5452	563511	967.5
+	"Black or African American"	"2054-5"	"Female"	"F"	"59 years"	"59"	5950	569317	1045.1
+	"Black or African American"	"2054-5"	"Female"	"F"	"60 years"	"60"	6523	560747	1163.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"61 years"	"61"	6742	537845	1253.5
+	"Black or African American"	"2054-5"	"Female"	"F"	"62 years"	"62"	7082	526368	1345.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"63 years"	"63"	7399	512571	1443.5
+	"Black or African American"	"2054-5"	"Female"	"F"	"64 years"	"64"	7376	493746	1493.9
+	"Black or African American"	"2054-5"	"Female"	"F"	"65 years"	"65"	7668	472160	1624.0
+	"Black or African American"	"2054-5"	"Female"	"F"	"66 years"	"66"	7716	442272	1744.6
+	"Black or African American"	"2054-5"	"Female"	"F"	"67 years"	"67"	7900	415039	1903.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"68 years"	"68"	7971	400660	1989.5
+	"Black or African American"	"2054-5"	"Female"	"F"	"69 years"	"69"	8037	390315	2059.1
+	"Black or African American"	"2054-5"	"Female"	"F"	"70 years"	"70"	8266	368137	2245.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"71 years"	"71"	8375	343344	2439.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"72 years"	"72"	8323	323009	2576.7
+	"Black or African American"	"2054-5"	"Female"	"F"	"73 years"	"73"	7888	280872	2808.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"74 years"	"74"	7453	247480	3011.6
+	"Black or African American"	"2054-5"	"Female"	"F"	"75 years"	"75"	7557	236284	3198.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"76 years"	"76"	8115	224027	3622.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"77 years"	"77"	8320	208136	3997.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"78 years"	"78"	8066	188847	4271.2
+	"Black or African American"	"2054-5"	"Female"	"F"	"79 years"	"79"	8151	177373	4595.4
+	"Black or African American"	"2054-5"	"Female"	"F"	"80 years"	"80"	8260	162313	5088.9
+	"Black or African American"	"2054-5"	"Female"	"F"	"81 years"	"81"	8376	148109	5655.3
+	"Black or African American"	"2054-5"	"Female"	"F"	"82 years"	"82"	8320	137234	6062.6
+	"Black or African American"	"2054-5"	"Female"	"F"	"83 years"	"83"	8471	127297	6654.5
+	"Black or African American"	"2054-5"	"Female"	"F"	"84 years"	"84"	8478	118844	7133.7
+	"Black or African American"	"2054-5"	"Female"	"F"	"85 years"	"85"	8526	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"86 years"	"86"	8419	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"87 years"	"87"	8179	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"88 years"	"88"	7677	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"89 years"	"89"	7759	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"90 years"	"90"	7349	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"91 years"	"91"	6909	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"92 years"	"92"	6483	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"93 years"	"93"	5911	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"94 years"	"94"	5169	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"95 years"	"95"	4466	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"96 years"	"96"	3867	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"97 years"	"97"	3271	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"98 years"	"98"	2647	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"99 years"	"99"	2040	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"100+ years"	"100"	5177	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Female"	"F"	"Not Stated"	"NS"	14	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"< 1 year"	"0"	6791	597100	1137.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"1 year"	"1"	450	599348	75.1
+	"Black or African American"	"2054-5"	"Male"	"M"	"2 years"	"2"	274	613165	44.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"3 years"	"3"	183	619088	29.6
+	"Black or African American"	"2054-5"	"Male"	"M"	"4 years"	"4"	152	624135	24.4
+	"Black or African American"	"2054-5"	"Male"	"M"	"5 years"	"5"	154	628832	24.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"6 years"	"6"	155	626813	24.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"7 years"	"7"	126	626001	20.1
+	"Black or African American"	"2054-5"	"Male"	"M"	"8 years"	"8"	116	629351	18.4
+	"Black or African American"	"2054-5"	"Male"	"M"	"9 years"	"9"	137	631731	21.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"10 years"	"10"	141	632047	22.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"11 years"	"11"	160	643314	24.9
+	"Black or African American"	"2054-5"	"Male"	"M"	"12 years"	"12"	144	653264	22.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"13 years"	"13"	205	644445	31.8
+	"Black or African American"	"2054-5"	"Male"	"M"	"14 years"	"14"	300	631120	47.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"15 years"	"15"	412	624538	66.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"16 years"	"16"	562	619735	90.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"17 years"	"17"	857	622490	137.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"18 years"	"18"	1298	639449	203.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"19 years"	"19"	1510	661251	228.4
+	"Black or African American"	"2054-5"	"Male"	"M"	"20 years"	"20"	1528	664153	230.1
+	"Black or African American"	"2054-5"	"Male"	"M"	"21 years"	"21"	1687	658365	256.2
+	"Black or African American"	"2054-5"	"Male"	"M"	"22 years"	"22"	1700	658633	258.1
+	"Black or African American"	"2054-5"	"Male"	"M"	"23 years"	"23"	1784	657171	271.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"24 years"	"24"	1821	674403	270.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"25 years"	"25"	1937	706321	274.2
+	"Black or African American"	"2054-5"	"Male"	"M"	"26 years"	"26"	2041	731607	279.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"27 years"	"27"	2161	746986	289.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"28 years"	"28"	2209	751063	294.1
+	"Black or African American"	"2054-5"	"Male"	"M"	"29 years"	"29"	2186	740476	295.2
+	"Black or African American"	"2054-5"	"Male"	"M"	"30 years"	"30"	2251	704509	319.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"31 years"	"31"	2257	655262	344.4
+	"Black or African American"	"2054-5"	"Male"	"M"	"32 years"	"32"	2115	617793	342.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"33 years"	"33"	2100	594896	353.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"34 years"	"34"	2170	583363	372.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"35 years"	"35"	2112	564415	374.2
+	"Black or African American"	"2054-5"	"Male"	"M"	"36 years"	"36"	2196	550343	399.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"37 years"	"37"	2373	549183	432.1
+	"Black or African American"	"2054-5"	"Male"	"M"	"38 years"	"38"	2334	543272	429.6
+	"Black or African American"	"2054-5"	"Male"	"M"	"39 years"	"39"	2490	550712	452.1
+	"Black or African American"	"2054-5"	"Male"	"M"	"40 years"	"40"	2528	539614	468.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"41 years"	"41"	2597	507542	511.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"42 years"	"42"	2539	492527	515.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"43 years"	"43"	2647	478236	553.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"44 years"	"44"	2736	475614	575.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"45 years"	"45"	2817	472305	596.4
+	"Black or African American"	"2054-5"	"Male"	"M"	"46 years"	"46"	3056	468521	652.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"47 years"	"47"	3266	483429	675.6
+	"Black or African American"	"2054-5"	"Male"	"M"	"48 years"	"48"	3767	500851	752.1
+	"Black or African American"	"2054-5"	"Male"	"M"	"49 years"	"49"	4132	511706	807.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"50 years"	"50"	4158	493243	843.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"51 years"	"51"	4276	472999	904.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"52 years"	"52"	4789	470537	1017.8
+	"Black or African American"	"2054-5"	"Male"	"M"	"53 years"	"53"	5096	476575	1069.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"54 years"	"54"	5865	496459	1181.4
+	"Black or African American"	"2054-5"	"Male"	"M"	"55 years"	"55"	6477	504262	1284.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"56 years"	"56"	6793	495464	1371.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"57 years"	"57"	7426	485898	1528.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"58 years"	"58"	8056	480013	1678.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"59 years"	"59"	8715	484021	1800.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"60 years"	"60"	9029	474781	1901.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"61 years"	"61"	9666	451641	2140.2
+	"Black or African American"	"2054-5"	"Male"	"M"	"62 years"	"62"	10073	436452	2307.9
+	"Black or African American"	"2054-5"	"Male"	"M"	"63 years"	"63"	10651	417866	2548.9
+	"Black or African American"	"2054-5"	"Male"	"M"	"64 years"	"64"	10485	398680	2629.9
+	"Black or African American"	"2054-5"	"Male"	"M"	"65 years"	"65"	10585	374551	2826.1
+	"Black or African American"	"2054-5"	"Male"	"M"	"66 years"	"66"	10658	343441	3103.3
+	"Black or African American"	"2054-5"	"Male"	"M"	"67 years"	"67"	10423	317237	3285.6
+	"Black or African American"	"2054-5"	"Male"	"M"	"68 years"	"68"	10539	301371	3497.0
+	"Black or African American"	"2054-5"	"Male"	"M"	"69 years"	"69"	10452	291698	3583.2
+	"Black or African American"	"2054-5"	"Male"	"M"	"70 years"	"70"	10584	273514	3869.6
+	"Black or African American"	"2054-5"	"Male"	"M"	"71 years"	"71"	10067	252274	3990.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"72 years"	"72"	10056	235439	4271.2
+	"Black or African American"	"2054-5"	"Male"	"M"	"73 years"	"73"	9246	201462	4589.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"74 years"	"74"	8548	173709	4920.9
+	"Black or African American"	"2054-5"	"Male"	"M"	"75 years"	"75"	8205	163302	5024.4
+	"Black or African American"	"2054-5"	"Male"	"M"	"76 years"	"76"	8496	151431	5610.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"77 years"	"77"	8347	137746	6059.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"78 years"	"78"	7921	121738	6506.6
+	"Black or African American"	"2054-5"	"Male"	"M"	"79 years"	"79"	7674	111485	6883.4
+	"Black or African American"	"2054-5"	"Male"	"M"	"80 years"	"80"	7417	101070	7338.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"81 years"	"81"	7247	89941	8057.5
+	"Black or African American"	"2054-5"	"Male"	"M"	"82 years"	"82"	7117	80485	8842.6
+	"Black or African American"	"2054-5"	"Male"	"M"	"83 years"	"83"	6750	72373	9326.7
+	"Black or African American"	"2054-5"	"Male"	"M"	"84 years"	"84"	6588	65233	10099.2
+	"Black or African American"	"2054-5"	"Male"	"M"	"85 years"	"85"	6193	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"86 years"	"86"	5603	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"87 years"	"87"	5295	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"88 years"	"88"	4776	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"89 years"	"89"	4394	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"90 years"	"90"	3855	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"91 years"	"91"	3418	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"92 years"	"92"	2930	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"93 years"	"93"	2557	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"94 years"	"94"	2062	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"95 years"	"95"	1670	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"96 years"	"96"	1297	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"97 years"	"97"	987	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"98 years"	"98"	732	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"99 years"	"99"	509	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"100+ years"	"100"	923	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"Male"	"M"	"Not Stated"	"NS"	17	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"< 1 year"	"0"	7469	1892229	394.7
+	"White"	"2106-3"	"Female"	"F"	"1 year"	"1"	550	1906805	28.8
+	"White"	"2106-3"	"Female"	"F"	"2 years"	"2"	338	1947512	17.4
+	"White"	"2106-3"	"Female"	"F"	"3 years"	"3"	284	1978105	14.4
+	"White"	"2106-3"	"Female"	"F"	"4 years"	"4"	228	2026348	11.3
+	"White"	"2106-3"	"Female"	"F"	"5 years"	"5"	197	2035339	9.7
+	"White"	"2106-3"	"Female"	"F"	"6 years"	"6"	192	2032382	9.4
+	"White"	"2106-3"	"Female"	"F"	"7 years"	"7"	170	2032300	8.4
+	"White"	"2106-3"	"Female"	"F"	"8 years"	"8"	181	2041669	8.9
+	"White"	"2106-3"	"Female"	"F"	"9 years"	"9"	156	2047819	7.6
+	"White"	"2106-3"	"Female"	"F"	"10 years"	"10"	157	2053074	7.6
+	"White"	"2106-3"	"Female"	"F"	"11 years"	"11"	208	2090604	9.9
+	"White"	"2106-3"	"Female"	"F"	"12 years"	"12"	262	2133367	12.3
+	"White"	"2106-3"	"Female"	"F"	"13 years"	"13"	310	2144432	14.5
+	"White"	"2106-3"	"Female"	"F"	"14 years"	"14"	348	2153774	16.2
+	"White"	"2106-3"	"Female"	"F"	"15 years"	"15"	418	2178076	19.2
+	"White"	"2106-3"	"Female"	"F"	"16 years"	"16"	502	2191678	22.9
+	"White"	"2106-3"	"Female"	"F"	"17 years"	"17"	581	2188960	26.5
+	"White"	"2106-3"	"Female"	"F"	"18 years"	"18"	820	2220745	36.9
+	"White"	"2106-3"	"Female"	"F"	"19 years"	"19"	867	2274535	38.1
+	"White"	"2106-3"	"Female"	"F"	"20 years"	"20"	955	2290664	41.7
+	"White"	"2106-3"	"Female"	"F"	"21 years"	"21"	1117	2288647	48.8
+	"White"	"2106-3"	"Female"	"F"	"22 years"	"22"	1110	2302188	48.2
+	"White"	"2106-3"	"Female"	"F"	"23 years"	"23"	1317	2322663	56.7
+	"White"	"2106-3"	"Female"	"F"	"24 years"	"24"	1385	2355687	58.8
+	"White"	"2106-3"	"Female"	"F"	"25 years"	"25"	1587	2398092	66.2
+	"White"	"2106-3"	"Female"	"F"	"26 years"	"26"	1704	2436149	69.9
+	"White"	"2106-3"	"Female"	"F"	"27 years"	"27"	1907	2495816	76.4
+	"White"	"2106-3"	"Female"	"F"	"28 years"	"28"	2058	2580864	79.7
+	"White"	"2106-3"	"Female"	"F"	"29 years"	"29"	2292	2633035	87.0
+	"White"	"2106-3"	"Female"	"F"	"30 years"	"30"	2446	2596324	94.2
+	"White"	"2106-3"	"Female"	"F"	"31 years"	"31"	2503	2530318	98.9
+	"White"	"2106-3"	"Female"	"F"	"32 years"	"32"	2716	2492017	109.0
+	"White"	"2106-3"	"Female"	"F"	"33 years"	"33"	2929	2485369	117.8
+	"White"	"2106-3"	"Female"	"F"	"34 years"	"34"	2931	2511469	116.7
+	"White"	"2106-3"	"Female"	"F"	"35 years"	"35"	3120	2486654	125.5
+	"White"	"2106-3"	"Female"	"F"	"36 years"	"36"	3257	2467042	132.0
+	"White"	"2106-3"	"Female"	"F"	"37 years"	"37"	3590	2484904	144.5
+	"White"	"2106-3"	"Female"	"F"	"38 years"	"38"	3770	2473469	152.4
+	"White"	"2106-3"	"Female"	"F"	"39 years"	"39"	3992	2474380	161.3
+	"White"	"2106-3"	"Female"	"F"	"40 years"	"40"	4007	2415419	165.9
+	"White"	"2106-3"	"Female"	"F"	"41 years"	"41"	4098	2323445	176.4
+	"White"	"2106-3"	"Female"	"F"	"42 years"	"42"	4080	2288009	178.3
+	"White"	"2106-3"	"Female"	"F"	"43 years"	"43"	4361	2235315	195.1
+	"White"	"2106-3"	"Female"	"F"	"44 years"	"44"	4571	2236262	204.4
+	"White"	"2106-3"	"Female"	"F"	"45 years"	"45"	5016	2246777	223.3
+	"White"	"2106-3"	"Female"	"F"	"46 years"	"46"	5501	2244126	245.1
+	"White"	"2106-3"	"Female"	"F"	"47 years"	"47"	6217	2350779	264.5
+	"White"	"2106-3"	"Female"	"F"	"48 years"	"48"	7198	2537583	283.7
+	"White"	"2106-3"	"Female"	"F"	"49 years"	"49"	7887	2670005	295.4
+	"White"	"2106-3"	"Female"	"F"	"50 years"	"50"	8661	2638916	328.2
+	"White"	"2106-3"	"Female"	"F"	"51 years"	"51"	9143	2554071	358.0
+	"White"	"2106-3"	"Female"	"F"	"52 years"	"52"	9776	2553391	382.9
+	"White"	"2106-3"	"Female"	"F"	"53 years"	"53"	10957	2610596	419.7
+	"White"	"2106-3"	"Female"	"F"	"54 years"	"54"	12473	2743494	454.6
+	"White"	"2106-3"	"Female"	"F"	"55 years"	"55"	14207	2902602	489.5
+	"White"	"2106-3"	"Female"	"F"	"56 years"	"56"	15785	2975244	530.5
+	"White"	"2106-3"	"Female"	"F"	"57 years"	"57"	17674	3012696	586.7
+	"White"	"2106-3"	"Female"	"F"	"58 years"	"58"	19260	3071974	627.0
+	"White"	"2106-3"	"Female"	"F"	"59 years"	"59"	20882	3113086	670.8
+	"White"	"2106-3"	"Female"	"F"	"60 years"	"60"	22585	3087869	731.4
+	"White"	"2106-3"	"Female"	"F"	"61 years"	"61"	24058	3069399	783.8
+	"White"	"2106-3"	"Female"	"F"	"62 years"	"62"	25531	3069213	831.8
+	"White"	"2106-3"	"Female"	"F"	"63 years"	"63"	27142	3008107	902.3
+	"White"	"2106-3"	"Female"	"F"	"64 years"	"64"	28254	2951808	957.2
+	"White"	"2106-3"	"Female"	"F"	"65 years"	"65"	29303	2906357	1008.2
+	"White"	"2106-3"	"Female"	"F"	"66 years"	"66"	30835	2822159	1092.6
+	"White"	"2106-3"	"Female"	"F"	"67 years"	"67"	31877	2731657	1166.9
+	"White"	"2106-3"	"Female"	"F"	"68 years"	"68"	33766	2641884	1278.1
+	"White"	"2106-3"	"Female"	"F"	"69 years"	"69"	35295	2559379	1379.0
+	"White"	"2106-3"	"Female"	"F"	"70 years"	"70"	38218	2498961	1529.4
+	"White"	"2106-3"	"Female"	"F"	"71 years"	"71"	42478	2473175	1717.5
+	"White"	"2106-3"	"Female"	"F"	"72 years"	"72"	47587	2549068	1866.8
+	"White"	"2106-3"	"Female"	"F"	"73 years"	"73"	47000	2242934	2095.5
+	"White"	"2106-3"	"Female"	"F"	"74 years"	"74"	43536	1853653	2348.7
+	"White"	"2106-3"	"Female"	"F"	"75 years"	"75"	46805	1827298	2561.4
+	"White"	"2106-3"	"Female"	"F"	"76 years"	"76"	51860	1841856	2815.6
+	"White"	"2106-3"	"Female"	"F"	"77 years"	"77"	54123	1734015	3121.3
+	"White"	"2106-3"	"Female"	"F"	"78 years"	"78"	53344	1520469	3508.4
+	"White"	"2106-3"	"Female"	"F"	"79 years"	"79"	54246	1390456	3901.3
+	"White"	"2106-3"	"Female"	"F"	"80 years"	"80"	56353	1293208	4357.6
+	"White"	"2106-3"	"Female"	"F"	"81 years"	"81"	58944	1214790	4852.2
+	"White"	"2106-3"	"Female"	"F"	"82 years"	"82"	61779	1124162	5495.6
+	"White"	"2106-3"	"Female"	"F"	"83 years"	"83"	63683	1032799	6166.1
+	"White"	"2106-3"	"Female"	"F"	"84 years"	"84"	66555	967988	6875.6
+	"White"	"2106-3"	"Female"	"F"	"85 years"	"85"	68151	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"86 years"	"86"	69852	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"87 years"	"87"	72958	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"88 years"	"88"	75516	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"89 years"	"89"	77770	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"90 years"	"90"	77290	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"91 years"	"91"	74990	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"92 years"	"92"	72578	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"93 years"	"93"	67781	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"94 years"	"94"	61508	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"95 years"	"95"	54142	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"96 years"	"96"	46012	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"97 years"	"97"	37553	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"98 years"	"98"	29622	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"99 years"	"99"	22042	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"100+ years"	"100"	44091	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Female"	"F"	"Not Stated"	"NS"	28	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"< 1 year"	"0"	9467	1983560	477.3
+	"White"	"2106-3"	"Male"	"M"	"1 year"	"1"	727	2004210	36.3
+	"White"	"2106-3"	"Male"	"M"	"2 years"	"2"	490	2047811	23.9
+	"White"	"2106-3"	"Male"	"M"	"3 years"	"3"	393	2081052	18.9
+	"White"	"2106-3"	"Male"	"M"	"4 years"	"4"	304	2131491	14.3
+	"White"	"2106-3"	"Male"	"M"	"5 years"	"5"	282	2144273	13.2
+	"White"	"2106-3"	"Male"	"M"	"6 years"	"6"	218	2140470	10.2
+	"White"	"2106-3"	"Male"	"M"	"7 years"	"7"	235	2137175	11.0
+	"White"	"2106-3"	"Male"	"M"	"8 years"	"8"	226	2149636	10.5
+	"White"	"2106-3"	"Male"	"M"	"9 years"	"9"	218	2153159	10.1
+	"White"	"2106-3"	"Male"	"M"	"10 years"	"10"	265	2152614	12.3
+	"White"	"2106-3"	"Male"	"M"	"11 years"	"11"	311	2190228	14.2
+	"White"	"2106-3"	"Male"	"M"	"12 years"	"12"	361	2236657	16.1
+	"White"	"2106-3"	"Male"	"M"	"13 years"	"13"	466	2254070	20.7
+	"White"	"2106-3"	"Male"	"M"	"14 years"	"14"	591	2264512	26.1
+	"White"	"2106-3"	"Male"	"M"	"15 years"	"15"	799	2288882	34.9
+	"White"	"2106-3"	"Male"	"M"	"16 years"	"16"	1109	2304669	48.1
+	"White"	"2106-3"	"Male"	"M"	"17 years"	"17"	1272	2300849	55.3
+	"White"	"2106-3"	"Male"	"M"	"18 years"	"18"	1846	2333866	79.1
+	"White"	"2106-3"	"Male"	"M"	"19 years"	"19"	2198	2394705	91.8
+	"White"	"2106-3"	"Male"	"M"	"20 years"	"20"	2449	2414253	101.4
+	"White"	"2106-3"	"Male"	"M"	"21 years"	"21"	3031	2408975	125.8
+	"White"	"2106-3"	"Male"	"M"	"22 years"	"22"	3035	2416367	125.6
+	"White"	"2106-3"	"Male"	"M"	"23 years"	"23"	3186	2440366	130.6
+	"White"	"2106-3"	"Male"	"M"	"24 years"	"24"	3465	2484471	139.5
+	"White"	"2106-3"	"Male"	"M"	"25 years"	"25"	3844	2530796	151.9
+	"White"	"2106-3"	"Male"	"M"	"26 years"	"26"	4166	2572159	162.0
+	"White"	"2106-3"	"Male"	"M"	"27 years"	"27"	4452	2627582	169.4
+	"White"	"2106-3"	"Male"	"M"	"28 years"	"28"	4828	2689045	179.5
+	"White"	"2106-3"	"Male"	"M"	"29 years"	"29"	5211	2716732	191.8
+	"White"	"2106-3"	"Male"	"M"	"30 years"	"30"	5419	2671781	202.8
+	"White"	"2106-3"	"Male"	"M"	"31 years"	"31"	5602	2597461	215.7
+	"White"	"2106-3"	"Male"	"M"	"32 years"	"32"	5562	2554765	217.7
+	"White"	"2106-3"	"Male"	"M"	"33 years"	"33"	5810	2547842	228.0
+	"White"	"2106-3"	"Male"	"M"	"34 years"	"34"	6071	2562815	236.9
+	"White"	"2106-3"	"Male"	"M"	"35 years"	"35"	6149	2524995	243.5
+	"White"	"2106-3"	"Male"	"M"	"36 years"	"36"	6401	2497184	256.3
+	"White"	"2106-3"	"Male"	"M"	"37 years"	"37"	6686	2512106	266.2
+	"White"	"2106-3"	"Male"	"M"	"38 years"	"38"	6913	2498577	276.7
+	"White"	"2106-3"	"Male"	"M"	"39 years"	"39"	7219	2505041	288.2
+	"White"	"2106-3"	"Male"	"M"	"40 years"	"40"	7571	2447566	309.3
+	"White"	"2106-3"	"Male"	"M"	"41 years"	"41"	7253	2347892	308.9
+	"White"	"2106-3"	"Male"	"M"	"42 years"	"42"	7417	2307632	321.4
+	"White"	"2106-3"	"Male"	"M"	"43 years"	"43"	7394	2252176	328.3
+	"White"	"2106-3"	"Male"	"M"	"44 years"	"44"	7696	2256577	341.0
+	"White"	"2106-3"	"Male"	"M"	"45 years"	"45"	8280	2264594	365.6
+	"White"	"2106-3"	"Male"	"M"	"46 years"	"46"	8948	2249134	397.8
+	"White"	"2106-3"	"Male"	"M"	"47 years"	"47"	10074	2352682	428.2
+	"White"	"2106-3"	"Male"	"M"	"48 years"	"48"	11663	2540907	459.0
+	"White"	"2106-3"	"Male"	"M"	"49 years"	"49"	12979	2673549	485.5
+	"White"	"2106-3"	"Male"	"M"	"50 years"	"50"	14051	2636655	532.9
+	"White"	"2106-3"	"Male"	"M"	"51 years"	"51"	14919	2542075	586.9
+	"White"	"2106-3"	"Male"	"M"	"52 years"	"52"	16066	2529170	635.2
+	"White"	"2106-3"	"Male"	"M"	"53 years"	"53"	17472	2572792	679.1
+	"White"	"2106-3"	"Male"	"M"	"54 years"	"54"	20054	2694658	744.2
+	"White"	"2106-3"	"Male"	"M"	"55 years"	"55"	23097	2834592	814.8
+	"White"	"2106-3"	"Male"	"M"	"56 years"	"56"	25775	2886862	892.8
+	"White"	"2106-3"	"Male"	"M"	"57 years"	"57"	27932	2907988	960.5
+	"White"	"2106-3"	"Male"	"M"	"58 years"	"58"	30451	2952098	1031.5
+	"White"	"2106-3"	"Male"	"M"	"59 years"	"59"	33104	2988173	1107.8
+	"White"	"2106-3"	"Male"	"M"	"60 years"	"60"	35365	2953082	1197.6
+	"White"	"2106-3"	"Male"	"M"	"61 years"	"61"	37818	2913393	1298.1
+	"White"	"2106-3"	"Male"	"M"	"62 years"	"62"	40377	2896074	1394.2
+	"White"	"2106-3"	"Male"	"M"	"63 years"	"63"	42424	2818936	1505.0
+	"White"	"2106-3"	"Male"	"M"	"64 years"	"64"	43826	2749223	1594.1
+	"White"	"2106-3"	"Male"	"M"	"65 years"	"65"	45172	2686242	1681.6
+	"White"	"2106-3"	"Male"	"M"	"66 years"	"66"	47003	2586385	1817.3
+	"White"	"2106-3"	"Male"	"M"	"67 years"	"67"	47996	2493085	1925.2
+	"White"	"2106-3"	"Male"	"M"	"68 years"	"68"	49312	2397701	2056.6
+	"White"	"2106-3"	"Male"	"M"	"69 years"	"69"	50180	2313716	2168.8
+	"White"	"2106-3"	"Male"	"M"	"70 years"	"70"	52917	2252004	2349.8
+	"White"	"2106-3"	"Male"	"M"	"71 years"	"71"	56716	2217402	2557.8
+	"White"	"2106-3"	"Male"	"M"	"72 years"	"72"	62190	2276890	2731.4
+	"White"	"2106-3"	"Male"	"M"	"73 years"	"73"	60350	1986489	3038.0
+	"White"	"2106-3"	"Male"	"M"	"74 years"	"74"	55369	1619399	3419.1
+	"White"	"2106-3"	"Male"	"M"	"75 years"	"75"	57898	1574350	3677.6
+	"White"	"2106-3"	"Male"	"M"	"76 years"	"76"	63507	1566818	4053.2
+	"White"	"2106-3"	"Male"	"M"	"77 years"	"77"	65182	1454191	4482.4
+	"White"	"2106-3"	"Male"	"M"	"78 years"	"78"	62559	1249526	5006.6
+	"White"	"2106-3"	"Male"	"M"	"79 years"	"79"	61175	1120648	5458.9
+	"White"	"2106-3"	"Male"	"M"	"80 years"	"80"	61936	1028499	6022.0
+	"White"	"2106-3"	"Male"	"M"	"81 years"	"81"	63282	948077	6674.8
+	"White"	"2106-3"	"Male"	"M"	"82 years"	"82"	62873	853766	7364.2
+	"White"	"2106-3"	"Male"	"M"	"83 years"	"83"	63460	763356	8313.3
+	"White"	"2106-3"	"Male"	"M"	"84 years"	"84"	63874	693146	9215.1
+	"White"	"2106-3"	"Male"	"M"	"85 years"	"85"	63083	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"86 years"	"86"	61413	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"87 years"	"87"	61506	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"88 years"	"88"	60913	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"89 years"	"89"	58190	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"90 years"	"90"	54264	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"91 years"	"91"	49946	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"92 years"	"92"	44667	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"93 years"	"93"	38589	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"94 years"	"94"	32034	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"95 years"	"95"	26120	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"96 years"	"96"	20131	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"97 years"	"97"	15039	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"98 years"	"98"	10863	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"99 years"	"99"	7093	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"100+ years"	"100"	10722	Not Applicable	Not Applicable
+	"White"	"2106-3"	"Male"	"M"	"Not Stated"	"NS"	67	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: deaths_crude_race_gender_age_19-20"
+"Gender: Female; Male"
+"Hispanic Origin: Not Hispanic or Latino"
+"Race: Black or African American; White"
+"Year/Month: 2019; 2020"
+"Group By: Race; Gender; Single-Year Ages"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Feb 22, 2023 12:48:52 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Feb 22, 2023 12:48:52 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"6. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
