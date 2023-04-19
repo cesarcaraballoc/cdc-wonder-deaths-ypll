@@ -2,6 +2,8 @@
 
 We include here the codes and datasets used to estimate excess mortality rate and years of potential life lost (per 100K individuals) among Black individuals using data publicly available from CDC WONDER (https://wonder.cdc.gov/Deaths-by-Underlying-Cause.html) for years 1999 to 2020.
 
+** Important note: Please see the files under 2023-04-19_revision for the latest version of these codes.
+
 The analysis has 2 main parts.
 
 ## Part 1: Temporal trends
