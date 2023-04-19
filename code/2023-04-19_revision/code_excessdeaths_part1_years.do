@@ -46,7 +46,6 @@ Reference: Centers for Disease Control and Prevention, National Center for Healt
 
 
 clear all
-cd /Users/cesarcc/Documents/Research/CDC_Wonder/code/2023-02-17_R1
 
 
 import delimited "export_age_adjusted_deaths_race_gender_year_se.txt" // file from the CDC site above
