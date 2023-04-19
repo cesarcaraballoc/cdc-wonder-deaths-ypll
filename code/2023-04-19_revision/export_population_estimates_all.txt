@@ -1,0 +1,99 @@
+"Notes"	"Gender"	"Gender Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate	Age Adjusted Rate	% of Total Deaths
+	"Female"	"F"	"1999"	"1999"	1215939	142237295	854.9	734.0	2.1%
+	"Female"	"F"	"2000"	"2000"	1225773	143368343	855.0	731.4	2.2%
+	"Female"	"F"	"2001"	"2001"	1233004	145077463	849.9	725.6	2.2%
+	"Female"	"F"	"2002"	"2002"	1244123	146394634	849.8	723.6	2.2%
+	"Female"	"F"	"2003"	"2003"	1246324	147679036	843.9	715.2	2.2%
+	"Female"	"F"	"2004"	"2004"	1215947	148977286	816.2	690.5	2.1%
+	"Female"	"F"	"2005"	"2005"	1240342	150319521	825.1	692.3	2.2%
+	"Female"	"F"	"2006"	"2006"	1224322	151732647	806.9	672.2	2.2%
+	"Female"	"F"	"2007"	"2007"	1219744	153166353	796.4	658.1	2.1%
+	"Female"	"F"	"2008"	"2008"	1245787	154604015	805.8	659.9	2.2%
+	"Female"	"F"	"2009"	"2009"	1219784	155964075	782.1	636.8	2.1%
+	"Female"	"F"	"2010"	"2010"	1236003	156964212	787.4	634.9	2.2%
+	"Female"	"F"	"2011"	"2011"	1260480	158301098	796.3	632.4	2.2%
+	"Female"	"F"	"2012"	"2012"	1269557	159421973	796.4	624.7	2.2%
+	"Female"	"F"	"2013"	"2013"	1290959	160477237	804.4	623.5	2.3%
+	"Female"	"F"	"2014"	"2014"	1298177	161920569	801.7	616.7	2.3%
+	"Female"	"F"	"2015"	"2015"	1339226	163189523	820.7	624.2	2.4%
+	"Female"	"F"	"2016"	"2016"	1344016	164048590	819.3	617.5	2.4%
+	"Female"	"F"	"2017"	"2017"	1374392	165311059	831.4	619.7	2.4%
+	"Female"	"F"	"2018"	"2018"	1380736	166038755	831.6	611.3	2.4%
+	"Female"	"F"	"2019"	"2019"	1381015	166582199	829.0	602.7	2.4%
+	"Female"	"F"	"2020 "	"2020"	1613845	167227921	965.1	695.1	2.8%
+"Total"	"Female"	"F"			28319495	3429003804	825.9	657.3	49.9%
+	"Male"	"M"	"1999"	"1999"	1175460	136802873	859.2	1067.0	2.1%
+	"Male"	"M"	"2000"	"2000"	1177578	138053563	853.0	1053.8	2.1%
+	"Male"	"M"	"2001"	"2001"	1183421	139891492	846.0	1035.4	2.1%
+	"Male"	"M"	"2002"	"2002"	1199264	141230559	849.2	1030.6	2.1%
+	"Male"	"M"	"2003"	"2003"	1201964	142428897	843.9	1010.3	2.1%
+	"Male"	"M"	"2004"	"2004"	1181668	143828012	821.6	973.3	2.1%
+	"Male"	"M"	"2005"	"2005"	1207675	145197078	831.7	971.9	2.1%
+	"Male"	"M"	"2006"	"2006"	1201942	146647265	819.6	943.5	2.1%
+	"Male"	"M"	"2007"	"2007"	1203968	148064854	813.1	922.9	2.1%
+	"Male"	"M"	"2008"	"2008"	1226197	149489951	820.3	918.8	2.2%
+	"Male"	"M"	"2009"	"2009"	1217379	150807454	807.2	890.9	2.1%
+	"Male"	"M"	"2010"	"2010"	1232432	151781326	812.0	887.1	2.2%
+	"Male"	"M"	"2011"	"2011"	1254978	153290819	818.7	875.3	2.2%
+	"Male"	"M"	"2012"	"2012"	1273722	154492067	824.5	865.1	2.2%
+	"Male"	"M"	"2013"	"2013"	1306034	155651602	839.1	863.6	2.3%
+	"Male"	"M"	"2014"	"2014"	1328241	156936487	846.4	855.1	2.3%
+	"Male"	"M"	"2015"	"2015"	1373404	158229297	868.0	863.2	2.4%
+	"Male"	"M"	"2016"	"2016"	1400232	159078923	880.2	861.0	2.5%
+	"Male"	"M"	"2017"	"2017"	1439111	160408119	897.2	864.5	2.5%
+	"Male"	"M"	"2018"	"2018"	1458469	161128679	905.2	855.5	2.6%
+	"Male"	"M"	"2019"	"2019"	1473823	161657324	911.7	846.7	2.6%
+	"Male"	"M"	"2020 "	"2020"	1769884	162256202	1090.8	998.3	3.1%
+"Total"	"Male"	"M"			28486846	3317352843	858.7	921.1	50.1%
+"Total"					56806341	6746356647	842.0	775.3	100.0%
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: export_population_estimates_all"
+"Group By: Gender; Year"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Feb 21, 2023 2:53:41 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Feb 21, 2023 2:53:41 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2000 Standard Population."
+"3. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Age-Adjusted Rates."
+"4. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
